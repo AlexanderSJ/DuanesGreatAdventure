@@ -1,0 +1,22 @@
+{
+   "Type": "Bitmap",
+   "Width": 24,
+   "Height": 26,
+   "Ascent": 20,
+   "LineSpacing": 25,
+   "CharacterSpacing": 1,
+   "BlankSpaceWidth": 4,
+   "MapSrc": "‘’–—―ÀÁÂÃÄÅǍǺÈÉÊËĒĔĖĘĚÌÍÎÏĨĪĬĮİǏÑÒÓÔÕÖØŌŎŐƠǑÙÚÛÜŨŪŬŮŰǓǕǗǙǛÝŶŸýÿŷÇ“”",
+   "MapDst": "''---AAAAAAAAEEEEEEEEEIIIIIIIIIINOOOOOOOOOOOUUUUUUUUUUUUUUYYYyyyC\"\"",
+   "Bitmaps": [
+      {
+         "Name": "Arial/Arial",
+         "Lines": [
+            "ABCDEFGHIJKLMNOPQRSTU",
+            "VWXYZabcdefghijklmnop",
+            "qrstuvwxyz1234567890!",
+            "#\/\\()$?%@*,;:.'\"-=+|_"
+         ]
+      }
+   ]
+}

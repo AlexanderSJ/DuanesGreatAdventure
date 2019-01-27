@@ -1,0 +1,25 @@
+{
+   "Children":
+   [
+      {
+         "Name": "Play",
+         "Type": "PressButton",
+         "Font": "Arial",
+         "TextKey": "Play",
+         "UpOutState": "ButtonUp",
+         "UpOverState": "ButtonDown",
+         "DownOverState": "ButtonDown",
+         "PositionOffset": "358|208"
+      },
+      {
+         "Name": "Exit",
+         "Type": "PressButton",
+         "Font": "Arial",
+         "TextKey": "Exit",
+         "UpOutState": "ButtonUp",
+         "UpOverState": "ButtonDown",
+         "DownOverState": "ButtonDown",
+         "PositionOffset": "358|464"
+      }
+   ]
+}

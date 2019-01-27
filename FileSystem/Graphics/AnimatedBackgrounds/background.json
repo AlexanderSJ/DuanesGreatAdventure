@@ -1,0 +1,11 @@
+{
+	"Duration":20000,
+	"SpriteResourceFile" : "Sprites/Sprites",
+	"Items": [
+		{
+			"Type": "Sprite",
+			"Animation": "Background",
+			"Scale":"1.25|1.25"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"Duane": {
+		"Filename": "Sprites/duane",
+		"FrameCount": 28,
+		"FrameRate": 20,
+		"Origin": "Center",
+		"PlayType": "Loop"
+	},
+	"Numbers": {
+		"Filename": "Sprites/numbers",
+		"ImageSequence": [1,2,3,4,5,6,7,8,9,10,11],
+		"Origin": "Center"
+	},
+	"Background":{
+		"Filename": "AnimatedBackgrounds/bg",
+		"FrameCount":29,
+		"FrameRate": 15,
+		"Offset":"-80|-70",
+		"PlayType":"PingPongLoop"
+	}
+}
